@@ -1,0 +1,14 @@
+# 危险人员检测系统依赖
+
+# 核心依赖
+ultralytics>=8.0.0  # YOLO模型
+opencv-python>=4.8.0  # 图像处理
+numpy>=1.24.0  # 数值计算
+
+# 训练依赖
+torch>=2.0.0  # PyTorch深度学习框架
+torchvision>=0.15.0  # 计算机视觉库
+
+# 可选依赖
+matplotlib>=3.7.0  # 可视化（可选）
+Pillow>=9.5.0  # 图像处理（可选）
