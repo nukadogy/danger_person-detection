@@ -217,7 +217,7 @@ python train_weapon_detection.py
 ## 📞 联系方式
 
 如有问题或建议，请联系：
-- GitHub: [yourusername](https://github.com/yourusername)
+- GitHub: [nukadogy](https://github.com/nukadogy)
 
 ---
 
